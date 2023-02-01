@@ -21,7 +21,7 @@ ___
   <img align="center" alt="allef-Python" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="allef-HTML" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="allef-CSS" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="allef-Java" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="allef-Java" src="https://img.icons8.com/color/90/null/java-coffee-cup-logo--v1.png">
   <img align="center" alt="allef-Js" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="allef-GIT" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="allef-GITHUB" src="https://img.icons8.com/3d-fluency/80/null/github.png"/>
