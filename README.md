@@ -1,4 +1,13 @@
-# See You Space
+# See You Space...
+___
+
+## Cursos e Instituições Frequentadas
+
+### *Licenciatura em Computação - Universidade de Pernambuco - UPE* ✔
+### *Técnico em Eletroeletrônica - Instituto Federal de Pernambuco - IFPE* ✔
+### *Bacharelado em Ciência da Computação - Universidade Federal do Agreste de Pernambuco - UFAPE* ⌛
+
+___
 
 <div >
   <a href="https://github.com/allefbcc">
